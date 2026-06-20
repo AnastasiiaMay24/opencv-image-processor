@@ -1,5 +1,5 @@
-## **Автор:** Майер Анастасия  
-## **Группа:** ЗКИ25-18Б
+### **Автор:** Майер Анастасия  
+### **Группа:** ЗКИ25-18Б
 
 --- 
 
@@ -34,7 +34,7 @@ opencv_image_processor/
 ├── requirements.txt    
 ├── README.md  
 ├── screenshots/  
-├── .gitignore
+├── .gitignore  
 └── captures/           
 
 ---
