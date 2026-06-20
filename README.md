@@ -35,6 +35,7 @@ opencv_image_processor/
 ├── README.md  
 ├── screenshots/  
 ├── .gitignore  
+├── venv/  
 └── captures/           
 
 ---
